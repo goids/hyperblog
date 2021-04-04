@@ -1,14 +1,29 @@
 h1, p {
-    color:red;
+    color:rgb(0, 0, 0);
     text-align: center;
 }
 
 section{
     width: 990px;
     background-color: blanchedalmond;
+    border: 1px solid gray;
     margin: 0 auto;
+    text-align: center;
+    padding: 20px 15px;
 }
 
 .arsenal{
     color: gold;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+ul li{
+    margin: 10px 0px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 14px;
 }
