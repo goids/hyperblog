@@ -27,3 +27,7 @@ ul li{
     font-weight: 600;
     font-size: 14px;
 }
+
+ul li span{
+    font-size: 10px;
+}
