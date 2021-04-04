@@ -2,3 +2,9 @@ h1, p {
     color:red;
     text-align: center;
 }
+
+section{
+    width: 990px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+}
