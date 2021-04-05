@@ -11,7 +11,7 @@ h1, p {
 header{
     width: 100%;
     height: 400px;
-    background-color: indigo;
+    background-color: rgb(12, 80, 184);
     position: relative;
     display: flex;
     flex-direction: column;
@@ -55,7 +55,7 @@ ul li span{
 footer{
     width: 100%;
     height: auto;
-    background-color: brown;
+    background-color: rgb(43, 42, 42);
     text-align: center;
     color: #fff;
     padding: 10px;
