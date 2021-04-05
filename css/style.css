@@ -51,3 +51,12 @@ ul li{
 ul li span{
     font-size: 10px;
 }
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: brown;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
