@@ -11,7 +11,11 @@ h1, p {
 header{
     width: 100%;
     height: 400px;
+<<<<<<< HEAD
     background: linear-gradient(rgb(8, 206, 206), rgb(5, 168, 168));
+=======
+    background-color: rgb(12, 80, 184);
+>>>>>>> cabecera
     position: relative;
     display: flex;
     flex-direction: column;
@@ -55,7 +59,7 @@ ul li span{
 footer{
     width: 100%;
     height: auto;
-    background-color: brown;
+    background-color: rgb(43, 42, 42);
     text-align: center;
     color: #fff;
     padding: 10px;
