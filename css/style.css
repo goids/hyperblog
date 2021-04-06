@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, p {
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(rgb(8, 206, 206), rgb(5, 168, 168));
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
+
+header h1,
+header p{
+    display: block;
+    color: #fff;
+}
+
+section{
+    width: 990px;
+    border: 1px solid rgb(177, 177, 177);
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+.arsenal{
+    color: gold;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+ul li{
+    margin: 10px 0px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+ul li span{
+    font-size: 10px;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(52, 52, 53);
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
